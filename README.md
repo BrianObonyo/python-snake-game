@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🐍 Snake Game — Python / tkinter
 
 A classic Snake game built with Python's built-in `tkinter` GUI library.  
@@ -147,3 +148,7 @@ MIT — use it however you like.
 ---
 
 *Part of my Python projects collection — [brianobonyo.dev](https://brianobonyo.dev)*
+=======
+# python-snake-game
+A classic Snake game built with Python and pygame.
+>>>>>>> aa66ecc2553e3f245c47833276046f622bd737ea
