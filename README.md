@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# 🐍 Snake Game — Python / tkinter
+#  Snake Game — Python / tkinter
 
 A classic Snake game built with Python's built-in `tkinter` GUI library.  
 No third-party dependencies — just Python.
